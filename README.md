@@ -1,0 +1,2 @@
+# exemplos
+interface, classe abstrata
